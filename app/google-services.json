@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "280053675003",
+    "project_id": "restrofinder-dd973",
+    "storage_bucket": "restrofinder-dd973.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:280053675003:android:8eed037c49ee67437ed15e",
+        "android_client_info": {
+          "package_name": "com.example.restrofinder"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "280053675003-qq9npjftavluiqha3b8dof5g1o8mui7j.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBMDuxKTE6QjaGzX-DPLZ0SjkjycgWbvJs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "280053675003-qq9npjftavluiqha3b8dof5g1o8mui7j.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
